@@ -16,3 +16,9 @@ wget "https://raw.githubusercontent.com/Zhicheng2914/-/master/script/CentOS/bbrp
 ```bash
 wget --no-check-certificate -O shadowsocks-libev.sh https://raw.githubusercontent.com/Zhicheng2914/-/master/script/CentOS/shadowsocks-libev.sh && chmod +x shadowsocks-libev.sh && ./shadowsocks-libev.sh 2>&1 | tee shadowsocks-libev.log
 ```
+
+## 4.封禁SPAM端口（防止服务器被封）
+
+```bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ban_iptables.sh && chmod +x ban_iptables.sh && bash ban_iptables.sh
+```
