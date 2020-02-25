@@ -1,7 +1,18 @@
 # 基于CentOS6&7的Shadowsocks安装过程
-## 1.BBR-Plus安装指令
+## 1.安装wget
 
-## 2.shadowsocks-libev安装指令
-    wget --no-check-certificate -O shadowsocks-libev.sh https://raw.githubusercontent.com/Zhicheng2914/-/master/script/CentOS/shadowsocks-libev.sh
-    chmod +x shadowsocks-libev.sh
-    ./shadowsocks-libev.sh 2>&1 | tee shadowsocks-libev.log
+```bash
+yum install wget
+```
+
+## 2.BBR-Plus安装指令
+
+```bash
+wget "https://github.com/cx9208/bbrplus/raw/master/ok_bbrplus_centos.sh" && chmod +x ok_bbrplus_centos.sh && ./ok_bbrplus_centos.sh
+```
+
+## 3.shadowsocks-libev安装指令
+
+```bash
+wget --no-check-certificate -O shadowsocks-libev.sh https://raw.githubusercontent.com/Zhicheng2914/-/master/script/CentOS/shadowsocks-libev.sh && chmod +x shadowsocks-libev.sh && ./shadowsocks-libev.sh 2>&1 | tee shadowsocks-libev.log
+```
