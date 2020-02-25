@@ -49,3 +49,6 @@ DOMAIN-KEYWORD,akamaiedge
 # > thatgamecompany
 DOMAIN-KEYWORD,thatgamecompany
 
+# > Xbox 
+DOMAIN-KEYWORD,store-images.s-microsoft
+
