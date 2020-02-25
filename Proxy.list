@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,18comic.org
 DOMAIN-SUFFIX,yazhouse8.com
 
 # > OTHER :)
-DOMAIN-SUFFIX,techdaily.com.my
+DOMAIN-KEYWORD,techdaily
 
 # > xvideos
 USER-AGENT,xvideos*
