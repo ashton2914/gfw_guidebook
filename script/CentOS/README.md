@@ -8,7 +8,7 @@ yum install wget
 ## 2.BBR-Plus安装指令
 
 ```bash
-wget "https://github.com/cx9208/bbrplus/raw/master/ok_bbrplus_centos.sh" && chmod +x ok_bbrplus_centos.sh && ./ok_bbrplus_centos.sh
+wget "https://raw.githubusercontent.com/Zhicheng2914/-/master/script/CentOS/bbrplus/ok_bbrplus_centos.sh" && chmod +x ok_bbrplus_centos.sh && ./ok_bbrplus_centos.sh
 ```
 
 ## 3.shadowsocks-libev安装指令
