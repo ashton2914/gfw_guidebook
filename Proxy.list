@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,18comic.org
 # > DIRTY WEB :)
 DOMAIN-SUFFIX,yazhouse8.com
 
+# > OTHER :)
+DOMAIN-SUFFIX, techdaily.com
+
 # > xvideos
 USER-AGENT,xvideos*
 DOMAIN-KEYWORD,xvideos
