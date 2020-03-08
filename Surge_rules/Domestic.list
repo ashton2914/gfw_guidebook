@@ -1,4 +1,6 @@
 # > Google_Translate
+USER-AGENT,Translate*
+USER-AGENT,GoogleTranslate*
 DOMAIN-SUFFIX,translate.google.cn
 DOMAIN-KEYWORD,translate.google
 
