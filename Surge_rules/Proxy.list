@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spoti.fi
 
 # > Minecraft
+USER-AGENT,Minecraft*
 DOMAIN-KEYWORD,appsflyer
 DOMAIN-KEYWORD,xboxlive
 DOMAIN-KEYWORD,minecraft
