@@ -9,3 +9,7 @@ DOMAIN-KEYWORD,translate.google
 USER-AGENT,NeteaseMusic*
 DOMAIN-SUFFIX,music.163.com
 DOMAIN-SUFFIX,music.126.net
+
+# > Spotify AP
+DOMAIN-KEYWORD,ap.spotify.com 
+DOMAIN-SUFFIX,*.ap.spotify.com 
