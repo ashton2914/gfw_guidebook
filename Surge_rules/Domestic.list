@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,music.126.net
 # > Spotify AP
 DOMAIN-KEYWORD,ap.spotify.com 
 DOMAIN-SUFFIX,*.ap.spotify.com 
+
+# > iptv
+DOMAIN-SUFFIX,ivi.bupt.edu.cn
