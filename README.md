@@ -1,21 +1,15 @@
----
-aliases: 
-tags:
- - OBJECTIVE/Project 
-created: 2022-03-10 22:35
----
+
 # GFW Bypass
-Status:: #status/Suspending
-Category:: #Network
-Tags:: #GFW #Proxy #VPN
 
 ---
 # Guiding Book
 ## Overview
-[[关于GFW]]
+[关于GFW](关于GFW.md)
 ## Proxy Tools Information
-[[Shadowsocks]]
-[[Shadowsocks R]]
+[Shadowsocks](Shadowsocks.md)
+
+[ShadowsocksR](Shadowsocks_R.md)
+
 [[V2Ray]]
 [[Trojan]]
 ## Network Basic Knowledge
