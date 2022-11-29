@@ -1,15 +1,4 @@
----
-template: OBJECTIVE/Knowledge-Strucuture_v1.0
-created: 2022-03-28 19:32
-updated: 2022-03-30 14:52
----
 # 什么是Fake-IP
-#OBJECTIVE/Knowledge 
-Created::2022-03-28 19:32
-Category:: #Computer/Network/Protocol 
-Tags:: #Fake_IP 
-
----
 
 虽然 Fake IP 这个概念早在 2001 年就被提出来了，但是到 Clash 提供 fake-ip 增强模式以后，依然有很多人对 Fake IP 这个概念以及其作用知之甚少。本文就简单谈谈在代理环境中，TCP 连接建立之前发生的事。由于移动设备操作系统中网络栈相对复杂，本文的例子也并不一定适用于移动端环境。文章中也许会存在很多错误，也希望各路大佬的勘误和斧正。
 

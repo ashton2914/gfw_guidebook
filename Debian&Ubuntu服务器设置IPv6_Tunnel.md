@@ -1,16 +1,4 @@
----
-template: OBJECTIVE/Knowledge-Strucuture_v1.0
-created: 2022-03-28 19:39
-updated: 2022-03-30 14:51
----
 # Debian & Ubuntu 服务器设置 IPv6 Tunnel
-#OBJECTIVE/Knowledge 
-Created:: 2022-03-28 19:39
-Category:: #Computer/OS 
-Platform:: #Linux/Debian #Linux/Ubuntu 
-Tags:: #IPv6 #Debian #Ubuntu 
-
----
 
 本文以在 Bandwagonhost 上的 Debian 10 系统为例，介绍如何设置 IPv6 Tunnel。本文同样适用于 Ubuntu 20.04。
 

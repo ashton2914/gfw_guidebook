@@ -1,15 +1,4 @@
----
-template: OBJECTIVE/Knowledge-Strucuture_v1.0
-created: 2022-03-28 19:31
-updated: 2022-03-30 14:51
----
 # TCP, UDP, HTTP & HTTPS
-#OBJECTIVE/Knowledge 
-Created:: 2022-03-28 19:31
-Category:: #Computer/Network/Protocol 
-Tags:: #TCP #UDP #HTTP #HTTPS 
-
----
 
 # TCP, UDP, HTTP & HTTPS
 

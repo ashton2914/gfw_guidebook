@@ -1,15 +1,4 @@
----
-template: OBJECTIVE/Knowledge-Strucuture_v1.0
-created: 2022-03-28 19:34
-updated: 2022-03-30 14:49
----
 # 什么是Linux
-#OBJECTIVE/Knowledge 
-Created::2022-03-28 19:34
-Category:: #Computer/OS/Linux 
-Tags:: 
-
----
 
 # 什么是Linux
 

@@ -1,17 +1,4 @@
----
-template: OBJECTIVE/Knowledge-Strucuture_v1.0
-created: 2022-03-28 19:38
-updated: 2022-03-30 14:51
----
 # Openclash的推荐DNS设置
-#OBJECTIVE/Knowledge 
-Created:: 2022-03-28 19:38
-Category:: #Computer/Software/Clash 
-Platform:: #Openwrt 
-Tags:: #DNS 
-
----
-
 
 # Openclash的推荐DNS设置
 

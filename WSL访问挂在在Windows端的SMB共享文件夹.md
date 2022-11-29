@@ -1,16 +1,4 @@
----
-template: OBJECTIVE/Knowledge-Strucuture_v1.0
-created: 2022-03-28 19:42
-updated: 2022-03-30 14:50
----
 # WSL访问挂在在Windows端的SMB共享文件夹
-#OBJECTIVE/Knowledge 
-Created:: 2022-03-28 19:42
-Category:: #Computer/Software/SMB 
-Platform:: #Windows 
-Tags:: #SMB 
-
----
 
 # **安装DrvF**
 

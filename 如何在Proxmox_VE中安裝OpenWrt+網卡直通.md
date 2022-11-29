@@ -1,14 +1,4 @@
----
-template: OBJECTIVE/Knowledge-Strucuture_v1.0
-created: 2022-04-14 13:44
----
 # 如何在Proxmox VE中安裝OpenWrt + 網卡直通
-#OBJECTIVE/Knowledge 
-Created:: 2022-04-14 13:44
-Category:: #Computer/OS/PVE  
-Tags:: #Proxmox #PVE #Openwrt #网卡 #直通 #网卡直通 
-
----
 
 [00:00](https://www.youtube.com/watch?v=3G3kutSRSrs&list=PLcYK2_vDtcAN7Ezk9XFUqzwVDLAu1TVov&index=20&t=0s) Intro
 [00:22](https://www.youtube.com/watch?v=3G3kutSRSrs&list=PLcYK2_vDtcAN7Ezk9XFUqzwVDLAu1TVov&index=20&t=22s) 下載Proxmox VE 6.3 & 寫入到USB隨身碟

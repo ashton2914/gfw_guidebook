@@ -1,15 +1,4 @@
----
-template: OBJECTIVE/Knowledge-Strucuture_v1.0
-created: 2022-03-28 19:30
-updated: 2022-03-30 14:51
----
 # 什么是DNS
-#OBJECTIVE/Knowledge 
-Created:: 2022-03-28 19:30
-Category:: #Computer/Network/DNS 
-Tags:: 
-
----
 
 DNS 是互联网核心协议之一。不管是上网浏览，还是编程开发，都需要了解一点它的知识。
 

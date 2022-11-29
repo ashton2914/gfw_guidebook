@@ -1,16 +1,4 @@
----
-template: OBJECTIVE/Knowledge-Strucuture_v1.0
-created: 2022-03-28 19:36
-updated: 2022-03-30 14:50
----
 # OpenWrt 安装配置 Samba 实现网络文件共享
-#OBJECTIVE/Knowledge 
-Created:: 2022-03-28 19:36
-Category:: #Computer/Software/Samba 
-Platform:: #Openwrt 
-Tags:: #Network #Share #Openwrt 
-
----
 
 OpenWrt 局域网文件共享实现主要有两个软件选择，[Samba](https://openwrt.org/docs/guide-user/services/nas/cifs.server) 和 [NFS](https://openwrt.org/docs/guide-user/services/nas/nfs.server)。Samba 系统兼容性较好，NFS 则性能表现占优。对于新手或者需要使用 Windows 设备的用户来说，建议选择 Samba。
 

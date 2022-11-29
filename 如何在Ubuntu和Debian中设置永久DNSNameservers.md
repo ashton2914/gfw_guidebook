@@ -1,15 +1,4 @@
----
-template: OBJECTIVE/Knowledge-Strucuture_v1.0
-created: 2022-03-28 19:40
-updated: 2022-03-30 14:48
----
 # 如何在Ubuntu和Debian中设置永久DNSNameservers
-#OBJECTIVE/Knowledge 
-Created:: 2022-03-28 19:40
-Category:: #Computer/OS 
-Tags:: #Ubuntu #Debian #DNS #Name_Server 
-
----
 
 /**etc/resolv.conf**是**DNS**名称解析器库的主要配置文件。 解析程序是C库中的一组函数，提供对**Internet域名系统** （ **DNS** ）的访问。 这些功能被配置为检查**/ etc / hosts**文件或多个DNSNameservers中的条目，或者使用主机的**网络信息服务** （ **NIS** ）数据库。
 
